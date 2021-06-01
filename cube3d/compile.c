@@ -1,0 +1,1 @@
+gcc -o test main.c ft_read_map.c libft/ft_lstadd_back.c libft/ft_lstnew.c libft/ft_lstsize.c ft_make_map.c libft/ft_calloc.c gnl/get_next_line.c libft/ft_strjoin.c libft/ft_substr.c libft/ft_strdup.c libft/ft_strchr.c libft/ft_strlen.c
